@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>notifications_none.svg</file>
+    <file>notifications.svg</file>
+    <file>settings.svg</file>
+    <file>list.png</file>
+  </qresource>
+</RCC>
